@@ -1,6 +1,6 @@
 import test from 'ava';
 
-var superkoa = require('.')
+var superkoa = require('superkoa')
 
 test.cb("superkoa()", t => {
   superkoa()
