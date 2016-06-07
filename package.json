@@ -1,0 +1,16 @@
+{
+  "name": "sdfdsfsdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^0.15.2",
+    "koa": "^2.0.0",
+    "superkoa": "^1.0.0"
+  }
+}
